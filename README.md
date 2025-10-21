@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jason Gao
 
-I'm a **Computer Science student at the University of Colorado Boulder** (Class of 2027), passionate about systems programming, software engineering, and AI-driven applications. I love building performant, scalable systems — from **multi-threaded C servers** to **Rust static analyzers** and **LLM-backed web tools**.
+I'm a **Computer Science student at the University of Colorado Boulder** (Class of 2027), passionate about systems programming, software engineering, and AI-driven applications. 
 
 ---
 
