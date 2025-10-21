@@ -20,7 +20,7 @@ I'm a **Computer Science student at the University of Colorado Boulder** (Class 
 
 ---
 
-## 🧠 Research
+## Research
 **CU Programming Languages & Verification Lab ([CUPLV](https://plv.colorado.edu/))**  
 - Developed static analysis techniques for Rust and Python, focusing on **cross-language extensibility** and **sound concurrency detection**.
 
@@ -37,7 +37,3 @@ I'm a **Computer Science student at the University of Colorado Boulder** (Class 
 - **LinkedIn:** [linkedin.com/in/jgao](https://linkedin.com/in/jgao)  
 - **Resume:** [View PDF](https://github.com/dumparing/resume/blob/main/Jason_Gao_Resume.pdf)  
 
----
-
-> _“Good systems feel invisible — great ones make complexity simple.”_  
-> — Jason Gao
