@@ -1,39 +1,35 @@
-# Hi, I'm Jason Gao
+# Hey, I'm Jason
 
-I'm a **Computer Science student at the University of Colorado Boulder** (Class of 2027), passionate about systems programming, software engineering, and AI-driven applications. 
+I'm a CS student at CU Boulder building stuff at the intersection of machine learning and systems. Currently working on AI infrastructure at Mercor and building production ML systems.
 
----
+## What I'm Working On
 
-## Featured Projects
+**ML Engineering** - RLHF data annotation and evaluation for LLM fine-tuning at Mercor
 
-### Rust Static Deadlock Analyzer
-- Built a **static analysis tool** in Rust to detect concurrency and deadlock issues before runtime.
-- Designed a **shared AST framework** across Rust and Python analyses to reduce duplicated logic by 30%.
+**Production Systems** - Built an automated volatility prediction pipeline on AWS (Lambda, DynamoDB, CI/CD)
 
-### Multi-threaded DNS Resolver (C)
-- Implemented a **multi-threaded DNS resolver** using semaphores, mutexes, and producer-consumer threading.
-- Achieved a **3× performance improvement** over a single-threaded baseline.
+**Social Impact** - Founded [Ribbn](https://joinribbn.org), a peer-support platform for cancer patients
 
-### Sports Prediction Marketplace (Python, Flask, React, AWS)
-- Engineered a **data pipeline** using NumPy, Pandas, and PostgreSQL to model team volatility.
-- Deployed a full-stack application with AWS, Flask, and React achieving a 45% ROI simulation accuracy.
+## Tech I Use
 
----
+**Languages:** Python, C/C++, Java, JavaScript/TypeScript, Scala, SQL
 
-## Research
-**CU Programming Languages & Verification Lab ([CUPLV](https://plv.colorado.edu/))**  
-- Developed static analysis techniques for Rust and Python, focusing on **cross-language extensibility** and **sound concurrency detection**.
+**ML/Data:** XGBoost, Scikit-Learn, PyTorch, TensorFlow, Pandas, NumPy
 
----
+**Backend:** Node.js, Express, FastAPI, PostgreSQL, MongoDB, Redis
 
-## Technical Skills
-**Languages:** Python, C/C++, Java, JavaScript (React, Node), Rust, SQL, Bash  
-**Tools & Frameworks:** AWS, GCP, Docker, Jenkins, Flask, React, Firebase, POSIX Threads, Git, Linux  
+**Cloud:** AWS (Lambda, S3, EC2, DynamoDB), Docker, CI/CD pipelines
 
----
+## Experience
+
+- **ML Engineer** @ Mercor (Oct 2025 - Present)
+- **SWE Intern** @ Edvise Technologies (Summer 2025)
+- **Researcher** @ CU Programming Languages & Verification Lab (Summer 2024)
+- **Algorithms TA** @ CU Boulder (Aug 2024 - Present)
 
 ## Connect
-- **Email:** [jasondgao0@gmail.com](mailto:jasondgao0@gmail.com)  
-- **LinkedIn:** [linkedin.com/in/jgao](https://linkedin.com/in/jgao)  
-- **Resume:** [View PDF](https://github.com/dumparing/resume/blob/main/Jason_Gao_Resume.pdf)  
 
+- [LinkedIn](https://www.linkedin.com/in/jason-gao-34160a28b/)
+- jasondgao0@gmail.com
+
+Always down to chat about ML systems, startups, or cool technical problems. Feel free to reach out!
